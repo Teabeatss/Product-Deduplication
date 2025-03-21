@@ -1,5 +1,3 @@
-#Pnetru inceput, am instalat si incarcat pachetul necesar pentru fisierele de tip parquet, format folosit
-#data-seturi de dimnesiuni mari, cum este si acesta cu care vom lucra.
 install.packages("arrow")
 library(arrow)
 #Am importat fifiserul parquet ce a fost pus la dispozitie cu ajutorul unei cai, punandu-l intr-un data-frame.
